@@ -1,0 +1,15 @@
+# Virtual environments
+mp_env/
+.venv/
+venv/
+env/
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Python
+__pycache__/
+*.pyc
